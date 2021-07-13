@@ -1,1 +1,1 @@
-Sorting algorithms notes and practice via Bloc/Thinkful
+Notes and practice on Sorting algorithms for Bloc
