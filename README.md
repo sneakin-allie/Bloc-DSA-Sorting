@@ -1,1 +1,1 @@
-Notes and practice on Sorting algorithms for Bloc
+Notes and practice on sorting algorithms for Bloc
